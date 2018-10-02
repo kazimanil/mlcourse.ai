@@ -1,5 +1,5 @@
 ## mlcourse.ai
-In this repository, I aim to store my work on [@Yorko's](https://github.com/Yorko) ML Course. I would like to thank him for his and the team's precious work.
+In this repository, I aim to store my work on [@Yorko's](https://github.com/Yorko) ML Course. I would like to thank to his and the team's precious work.
 
 Assignments could be reached via [this link](https://github.com/Yorko/mlcourse.ai/tree/master/jupyter_english/assignments_fall2018)
 
