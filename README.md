@@ -7,6 +7,8 @@ Assignments could be reached via [this link](https://github.com/Yorko/mlcourse.a
 My answer could be reached via links below:
 * [My answers for Assignment 1](https://github.com/kazimanil/mlcourse.ai/blob/master/mlcourse_1/mlcourse_1.ipynb)
 * [My answers for Assignment 2](https://github.com/kazimanil/mlcourse.ai/blob/master/mlcourse_2/mlcourse_2.ipynb)
+* [My answers for Assignment 3](https://github.com/kazimanil/mlcourse.ai/blob/master/mlcourse_3/mlcourse_3.ipynb)
+* [My answers for Assignment 3 - Optional Study](https://github.com/kazimanil/mlcourse.ai/blob/master/mlcourse_3/mlcourse_3opt.ipynb)
 
 ## Suggested Kaggle Competitions
 There are two Kaggle competitions which [@Yorko](https://github.com/Yorko) suggests:
