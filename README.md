@@ -2,13 +2,14 @@
 In this repository, I aim to store my work on [@Yorko's](https://github.com/Yorko) ML Course. I would like to thank to his and the team's precious work.
 
 ## Machine Learning Courses
-Assignments could be reached via [this link](https://github.com/Yorko/mlcourse.ai/tree/master/jupyter_english/assignments_fall2018)
+Assignments could be reached via [this link](https://github.com/Yorko/mlcourse.ai/tree/master/jupyter_english/assignments_fall2018). I had achieved 21 points out of total 22 as of last update.
 
 My answer could be reached via links below:
-* [My answers for Assignment 1](https://github.com/kazimanil/mlcourse.ai/blob/master/mlcourse_1/mlcourse_1.ipynb)
-* [My answers for Assignment 2](https://github.com/kazimanil/mlcourse.ai/blob/master/mlcourse_2/mlcourse_2.ipynb)
+* [My answers for Assignment 1](https://github.com/kazimanil/mlcourse.ai/blob/master/mlcourse_1/mlcourse_1.ipynb) : Rated 9/10
+* [My answers for Assignment 2](https://github.com/kazimanil/mlcourse.ai/blob/master/mlcourse_2/mlcourse_2.ipynb) : Rated 12/12
 * [My answers for Assignment 3](https://github.com/kazimanil/mlcourse.ai/blob/master/mlcourse_3/mlcourse_3.ipynb)
 * [My answers for Assignment 3 - Optional Study](https://github.com/kazimanil/mlcourse.ai/blob/master/mlcourse_3/mlcourse_3opt.ipynb)
+* [My answers for Assignment 4](https://github.com/kazimanil/mlcourse.ai/blob/master/mlcourse_4/mlcourse_4.ipynb)
 
 ## Suggested Kaggle Competitions
 There are two Kaggle competitions which [@Yorko](https://github.com/Yorko) suggests:
