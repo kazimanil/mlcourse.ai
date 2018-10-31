@@ -10,6 +10,7 @@ My answer could be reached via links below:
 * [My answers for Assignment 3](https://github.com/kazimanil/mlcourse.ai/blob/master/mlcourse_3/mlcourse_3.ipynb)
 * [My answers for Assignment 3 - Optional Study](https://github.com/kazimanil/mlcourse.ai/blob/master/mlcourse_3/mlcourse_3opt.ipynb)
 * [My answers for Assignment 4](https://github.com/kazimanil/mlcourse.ai/blob/master/mlcourse_4/mlcourse_4.ipynb)
+* [My answers for Assignment 5](https://github.com/kazimanil/mlcourse.ai/blob/master/mlcourse_5/mlcourse_5.ipynb)
 
 ## Suggested Kaggle Competitions
 There are two Kaggle competitions which [@Yorko](https://github.com/Yorko) suggests:
