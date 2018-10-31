@@ -111,3 +111,7 @@ venv.bak/
 # Answersheets
 
 *_answersheet.ipynb
+
+# Submission Files
+
+*.csv
