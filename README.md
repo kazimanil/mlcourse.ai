@@ -9,8 +9,8 @@ My answer could be reached via links below:
 * [My answers for Assignment 2](https://github.com/kazimanil/mlcourse.ai/blob/master/mlcourse_2/mlcourse_2.ipynb) : Rated 12/12
 * [My answers for Assignment 3](https://github.com/kazimanil/mlcourse.ai/blob/master/mlcourse_3/mlcourse_3.ipynb) : Rated 10/12
 * [My answers for Assignment 3 - Optional Study](https://github.com/kazimanil/mlcourse.ai/blob/master/mlcourse_3/mlcourse_3opt.ipynb)
-* [My answers for Assignment 4](https://github.com/kazimanil/mlcourse.ai/blob/master/mlcourse_4/mlcourse_4.ipynb)
-* [My answers for Assignment 5](https://github.com/kazimanil/mlcourse.ai/blob/master/mlcourse_5/mlcourse_5.ipynb)
+* [My answers for Assignment 4](https://github.com/kazimanil/mlcourse.ai/blob/master/mlcourse_4/mlcourse_4.ipynb) : Rated 12/14 [Had so little time before road-trip :(]
+* [My answers for Assignment 5](https://github.com/kazimanil/mlcourse.ai/blob/master/mlcourse_5/mlcourse_5.ipynb) : Rated ../.. [Had so little time after road-trip, but the trip was fun! :)]
 
 ## Suggested Kaggle Competitions
 There are two Kaggle competitions which [@Yorko](https://github.com/Yorko) suggests:
